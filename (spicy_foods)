@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/annashton/Development/Phase-3/wk-1/phase-3-enumerables-lab/enumerables.rb:45 :
+
+    [1;34m40[0m:   [1;34m# your code here[0m
+    [1;34m41[0m:   spicy_foods.each [32mdo[0m |food|
+    [1;34m42[0m:     puts [31m[1;31m"[0m[31m#{food[:name]}[0m[31m #{food[:cuisine]}[0m[31m #{food[heat_level]}[0m[31m[1;31m"[0m[31m[0m
+    [1;34m43[0m:   [32mend[0m
+    [1;34m44[0m: [32mend[0m
+ => [1;34m45[0m: binding.pry
+    [1;34m46[0m: 
+    [1;34m47[0m: [1;34m# given an array of spicy foods and a string representing a cuisine, **return a single hash**  [0m
+    [1;34m48[0m: [1;34m# for the spicy food whose cuisine matches the cuisine being passed to the method[0m
+    [1;34m49[0m: [32mdef[0m [1;34mget_spicy_food_by_cuisine[0m(spicy_foods, cuisine)
+    [1;34m50[0m:   [1;34m# your code here[0m
+
